@@ -30,6 +30,7 @@ return 0;
 ``````
 ## OUTPUT
 
+![11 1](https://github.com/arshatha-palanivel/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118682484/affef3a7-c665-4a16-bd6f-ea9edf947aa8)
 
 ## RESULT
 Thus the implementation of the program for first come first serve disc scheduling has been successfully executed.
@@ -77,6 +78,7 @@ return 0;
 ``````
 ## OUTPUT
 
+![11 2](https://github.com/arshatha-palanivel/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118682484/9362c3a5-9dc1-444c-8ef2-44170dea45e5)
 
 ## RESULT
 Thus the implementation of the program for shortest seek time first scheduling has been successfully executed.
@@ -165,6 +167,7 @@ return 0;
 
 ## OUTPUT
 
+![11 3](https://github.com/arshatha-palanivel/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118682484/941fb3ab-4b77-46a2-b33b-20c7c9ef5d48)
 
 ## RESULT
 Thus the implementation of the program for SCAN disc scheduling has been successfully executed.
@@ -248,6 +251,7 @@ return 0;
 
 ## OUTPUT
 
+![11 4](https://github.com/arshatha-palanivel/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118682484/32fef9a2-1a16-409e-bdfc-3f28035b5002)
 
 ## RESULT
 Thus the implementation of the program for LOOK disc scheduling has been successfully executed.
